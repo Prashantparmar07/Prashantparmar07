@@ -1,192 +1,199 @@
-````markdown
 # 👋 Hi, I'm Prashant Kumar
 
-### 🚀 Senior Salesforce Developer | Team Lead | AI Enthusiast | Full Stack Developer
+<h3 align="center">🚀 Senior Salesforce Developer | Team Lead | AI Enthusiast | Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prashantparmar07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=prashantparmar07&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=prashantparmar07">
-    <img src="https://github-profile-trophy.vercel.app/?username=prashantparmar07&theme=algolia&margin-w=15&margin-h=15" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=prashantparmar07&theme=algolia&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-## 💡 About Me
+# 💫 About Me
 
-- 🔭 Currently working as a **Senior Salesforce Developer**
-- 👨‍💼 Leading development teams and delivering enterprise Salesforce solutions
-- 🌱 Exploring **Agentforce, Einstein AI, Generative AI & AI Automation**
-- 💬 Ask me about **Salesforce, Apex, LWC, Flows, Integrations, AI, Web Development**
-- 🚀 Passionate about building scalable CRM and automation solutions
-- 📫 Reach me at **parmar.10prashant@gmail.com**
+🔹 Senior Salesforce Developer with 5+ years of experience
 
----
+🔹 Leading teams and delivering enterprise Salesforce solutions
 
-## 🏆 Salesforce Expertise
+🔹 Experienced in Salesforce Development, Architecture & Integrations
 
-### ⚡ Development
-- Apex Classes
-- Triggers
-- Batch Apex
-- Queueable Apex
-- Future Methods
-- Platform Events
-- REST APIs
-- SOAP APIs
-- Test Classes
+🔹 Passionate about AI, Agentforce, Automation & CRM Innovation
 
-### 🎨 Lightning Experience
-- Lightning Web Components (LWC)
-- Aura Components
-- Dynamic Forms
-- Dynamic Actions
+🔹 Currently working on large-scale Salesforce Migration Projects
 
-### 🔄 Automation
-- Record Triggered Flows
-- Scheduled Flows
-- Screen Flows
-- Approval Processes
-- Business Process Automation
+🔹 Open to collaboration on Salesforce, AI & Full Stack Projects
 
-### 🔗 Integrations
-- REST API Integrations
-- Named Credentials
-- OAuth Authentication
-- External Services
-- Third-Party System Integrations
-
-### 🤖 AI & Automation
-- Agentforce
-- Einstein Bots
-- Prompt Builder
-- Generative AI
-- AI-Powered Salesforce Solutions
+📧 Email: **[parmar.10prashant@gmail.com](mailto:parmar.10prashant@gmail.com)**
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Salesforce Expertise
+
+### Development
+
+* Apex
+* Triggers
+* Batch Apex
+* Queueable Apex
+* Future Methods
+* Platform Events
+* Test Classes
+* REST APIs
+* SOAP APIs
+
+### Lightning
+
+* Lightning Web Components (LWC)
+* Aura Components
+* Dynamic Forms
+* Dynamic Actions
+
+### Automation
+
+* Salesforce Flow
+* Screen Flow
+* Scheduled Flow
+* Approval Processes
+* Business Automation
+
+### Integration
+
+* REST API Integration
+* OAuth
+* Named Credentials
+* External Services
+* Third Party Integrations
+
+### AI
+
+* Agentforce
+* Einstein AI
+* Prompt Builder
+* Generative AI
+* AI Automation
+
+---
+
+# 🛠️ Tech Stack
 
 ### Salesforce
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Apex](https://img.shields.io/badge/Apex-1798c1?style=for-the-badge)
-![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge)
-![Flow](https://img.shields.io/badge/Flow-0176D3?style=for-the-badge)
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge\&logo=salesforce\&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-1798C1?style=for-the-badge)
+![LWC](https://img.shields.io/badge/LWC-0176D3?style=for-the-badge)
+![Flow](https://img.shields.io/badge/Flow-0D9DDA?style=for-the-badge)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### Languages & Technologies
 
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,java,mongodb,mysql,git,github,aws,vscode" />
+</p>
 
 ---
 
-## 🏅 Certifications & Achievements
+# 🏆 Certifications
 
-- ✅ Salesforce Associate
-- ✅ Apex Specialist Superbadge
-- ✅ Salesforce Trailblazer
-- ✅ Enterprise CRM Implementations
-- ✅ Team Leadership Experience
-- ✅ Salesforce Solution Design
+✅ Salesforce Associate
 
----
+✅ Apex Specialist Superbadge
 
-## 🚀 Featured Projects
+✅ Salesforce Trailblazer
 
-### 🤖 Salesforce Developer Assistant
-AI-powered Agentforce assistant that helps developers:
-- Generate Apex Code
-- Review LWC Components
-- Analyze Salesforce Flows
-- Suggest Best Practices
+✅ Enterprise Salesforce Implementations
 
-### 📈 CRM Migration Platform
-Enterprise migration solution:
-- Legacy System Migration
-- Data Transformation
-- Automation Modernization
-- Salesforce Adoption
-
-### 🧠 AI Business Automation
-Combining Salesforce and AI:
-- Customer Support Automation
-- Intelligent Workflows
-- Business Insights
-- Productivity Enhancement
+✅ Team Leadership
 
 ---
 
-## 📊 GitHub Statistics
+# 🌟 Featured Projects
+
+## 🤖 Salesforce Developer Assistant
+
+AI-powered Salesforce assistant capable of:
+
+* Apex Code Review
+* LWC Review
+* Flow Analysis
+* Best Practice Recommendations
+* Documentation Generation
+
+## 📈 CRM Migration Platform
+
+Enterprise migration framework:
+
+* Data Migration
+* Legacy System Transformation
+* Salesforce Modernization
+* Automation Implementation
+
+## 🧠 AI Business Automation
+
+* Agentforce Solutions
+* Einstein AI
+* Customer Support Automation
+* Productivity Enhancement
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashantparmar07&show_icons=true&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=prashantparmar07&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantparmar07&theme=tokyonight" />
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=prashantparmar07&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantparmar07&layout=compact&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantparmar07&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/prashantparmar07" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prashant%20Kumar-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com)
 
-<a href="mailto:parmar.10prashant@gmail.com">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-PrashantParmar07-black?style=for-the-badge\&logo=github)](https://github.com/PrashantParmar07)
 
-<a href="https://github.com/Prashantparmar07">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="30" width="40" />
-</a>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge\&logo=gmail)](mailto:parmar.10prashant@gmail.com)
 
 ---
 
-## 💬 Ask Me About
+# 💬 Ask Me About
 
-```text
+```yaml
 Salesforce Architecture
 Apex Development
 Lightning Web Components (LWC)
 Agentforce
 Einstein AI
-Salesforce Flows
+Salesforce Flow
 Experience Cloud
 CRM Migration
 REST API Integrations
 Full Stack Development
 Artificial Intelligence
-````
+```
+
+---
+
+# 📈 Current Focus
+
+🔥 Agentforce Development
+
+🔥 AI-Powered Salesforce Applications
+
+🔥 Enterprise CRM Solutions
+
+🔥 Salesforce Architecture & Best Practices
+
+🔥 Team Leadership & Mentorship
 
 ---
 
 ### 🚀 Building Intelligent Salesforce Solutions That Scale
-
-```
-```
