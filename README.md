@@ -2,13 +2,6 @@
 
 <h3 align="center">🚀 Senior Salesforce Developer | Team Lead | AI Enthusiast | Full Stack Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prashantparmar07&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prashantparmar07&theme=algolia&no-frame=true&row=1&column=7" />
-</p>
 
 ---
 
